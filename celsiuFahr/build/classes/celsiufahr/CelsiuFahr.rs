@@ -1,0 +1,5 @@
+infraestrutura.ServicoCelsiusFahrenheit
+celsiufahr.ServicoCelsiusFahrenheit
+celsiufahr.CelsiuFahr
+celsiufahr.Connection
+infraestrutura.Connection
